@@ -2,10 +2,10 @@
 
 The idea behind this project is very simple: Load a template file and a json file to create a valid file. It must be agnostic to the file type it's working with.
 
-Input
+**Input**
 
 ```yaml
-	apiVersion: extensions/v1beta1
+  apiVersion: extensions/v1beta1
   kind: Deployment
     metadata:
       name: mongodb-backup
@@ -40,7 +40,7 @@ Input
   }
 ```
 
-Output
+**Output**
 
 ```yaml
   apiVersion: extensions/v1beta1
