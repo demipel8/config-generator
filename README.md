@@ -69,3 +69,13 @@ The idea behind this project is very simple: Load a template file and a json fil
               - name: BACKUP_FOLDER
                 value: "/dev/null"
 ```
+
+## Run tests
+
+*This project requires docker and docker-compose*
+
+To execute the test suite launch the next command:
+
+```
+$ docker-compose run --rm app bundle exec rspec
+```
