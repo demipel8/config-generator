@@ -79,3 +79,11 @@ To execute the test suite launch the next command:
 ```
 $ docker-compose run --rm app bundle exec rspec
 ```
+
+## Run the app
+
+Run the next command
+
+```
+docker-compose run --rm app ruby app.rb
+```
