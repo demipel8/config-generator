@@ -2,9 +2,9 @@
 
 The idea behind this project is very simple: Load a template file and a json file to create a valid file. It must be agnostic to the file type it's working with.
 
-Story map: https://www.featuremap.co/public/dussman/config-generator
-Stories board: https://trello.com/b/bFhJnKo9/generate-config-file-stories
-Technical backlog: https://trello.com/b/MpL7zTOz/generate-config-file-technical-backlog
+- Story map: https://www.featuremap.co/public/dussman/config-generator
+- Stories board: https://trello.com/b/bFhJnKo9/generate-config-file-stories
+- Technical backlog: https://trello.com/b/MpL7zTOz/generate-config-file-technical-backlog
 
 **Input**
 
